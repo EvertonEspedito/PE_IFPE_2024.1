@@ -3,7 +3,7 @@
 
 # Programação Estruturada 
 
-**Códigos feitos de atividades no Curso de Computação do IFPE.**
+**Códigos feitos de atividades no Curso de Computação do IFPE 2024.1.**
 
 
 ## Nesse projeto eu ultilizei :
